@@ -7,15 +7,15 @@ Level 1
 * [get_next_line](#get_next_line)
 * [ft_printf](#ft_printf)
 
-Level2
+Level 2
 * [ft_server](#ft_server)
 
-Level3
+Level 3
 * [philosophers](#philosophers)
 * [minishell](#minishell)
 
-Level4
+Level 4
 * [miniRT](#miniRT)
 
-Level5
+Level 5
 * [inception](#inception)
