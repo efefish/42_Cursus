@@ -24,13 +24,30 @@
 
 ## [libft](https://github.com/efefish/Level0/libft)
 
-42における最初の課題はライブラリの作成です。
+"libft" は42_cursusにおける最初の課題で、目的は今後の課題に向けたライブラリ(libft.h)の作成です。
 
 ## [get_next_line](https://github.com/efefish/Level1/get_next_line)
+
+
+
 ## [ft_printf](https://github.com/efefish/Level1/ft_printf)
+
+
+
 ## [ft_server](https://github.com/efefish/Level2/ft_server)
+
+
+
 ## [philosophers](https://github.com/efefish/Level3/philosophers)
-## [minishell](https://github.com/efefish/Level3/minishell)
+
+
+
+## [minishell](https://github.com/mu-san-dayo/minishell)
+
+"minishell" は42_cursusにおける最初のチーム課題です。
+
+42Tokyoの生徒であるhhoshinoさん,ssoさん,ymukobarさんと2021年夏季に制作していく予定です。
+
 ## [miniRT](https://github.com/efefish/Level4/miniRT)
 ## [inception](https://github.com/efefish/Level5/inception)
 
