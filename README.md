@@ -1,23 +1,25 @@
-# 42Tokyo 42_cursus(1st Circle)
+# 42Tokyo 42_cursus (1st Circle)
 
-Level 0
+### This is a repository of my 42Tokyo assignments.
+
+#### Level 0
 * [libft](#libft)
 
-Level 1
+#### Level 1
 * [get_next_line](#get_next_line)
 * [ft_printf](#ft_printf)
 
-Level 2
+#### Level 2
 * [ft_server](#ft_server)
 
-Level 3
+#### Level 3
 * [philosophers](#philosophers)
 * [minishell](#minishell)
 
-Level 4
+#### Level 4
 * [miniRT](#miniRT)
 
-Level 5
+#### Level 5
 * [inception](#inception)
 
 ## [libft](https://github.com/efefish/Level0/libft)
