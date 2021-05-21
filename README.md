@@ -23,6 +23,9 @@
 * [inception](#inception)
 
 ## [libft](https://github.com/efefish/Level0/libft)
+
+42における最初の課題はライブラリの作成です。
+
 ## [get_next_line](https://github.com/efefish/Level1/get_next_line)
 ## [ft_printf](https://github.com/efefish/Level1/ft_printf)
 ## [ft_server](https://github.com/efefish/Level2/ft_server)
