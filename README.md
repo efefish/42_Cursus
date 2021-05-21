@@ -24,7 +24,9 @@
 
 ## [libft](https://github.com/efefish/Level0/libft)
 
-"libft" は42_cursusにおける最初の課題で、目的は今後の課題に向けたライブラリ(libft.h)の作成です。
+##### "libft" is the first assignment at 42_cursus.
+
+##### This assignment's goal is creating a library (libft.h) for future assignments at 42_cursus.
 
 ## [get_next_line](https://github.com/efefish/Level1/get_next_line)
 
