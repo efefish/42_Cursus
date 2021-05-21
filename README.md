@@ -30,5 +30,5 @@ Level 5
 ## [inception](https://github.com/efefish/Level5/inception)
 
 # Author
-42Tokyo Intranet(available only to 42Student)
+42Intranet(available only to 42 Student)
 ->(https://profile.intra.42.fr/users/tfujisaw)
