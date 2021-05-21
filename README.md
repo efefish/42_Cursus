@@ -21,5 +21,6 @@ Level 5
 * [inception](#inception)
 
 # Author
-* 42Tokyo Intranet(available only to 42Student)\n
+* 42Tokyo Intranet(available only to 42Student)
+
 (https://profile.intra.42.fr/users/tfujisaw)
