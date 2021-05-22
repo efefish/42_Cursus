@@ -22,7 +22,7 @@
 #### Level 5
 * [inception](#inception)
 
-## [libft](https://github.com/efefish/Level0/libft)
+## [libft](https://github.com/efefish/42C_L00-Libft)
 
 ##### "libft" is the first assignment at 42_cursus.
 
