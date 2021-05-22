@@ -47,9 +47,8 @@
 
 ## [minishell](https://github.com/mu-san-dayo/minishell)
 
-"minishell" は42_cursusにおける最初のチーム課題です。
-
-42Tokyoの生徒であるhhoshinoさん,ssoさん,ymukobarさんと2021年夏季に制作していく予定です。
+##### "minishell" is the first group assignment at 42_cursus.
+##### We plan to start working in the summer of 2021.
 
 ## [miniRT](https://github.com/efefish/42C_L04-miniRT)
 
