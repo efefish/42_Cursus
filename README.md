@@ -22,23 +22,25 @@
 #### Level 5
 * [inception](#inception)
 
-## [libft](https://github.com/efefish/Level0/libft)
+## [libft](https://github.com/efefish/42C_L00-Libft)
 
-"libft" は42_cursusにおける最初の課題で、目的は今後の課題に向けたライブラリ(libft.h)の作成です。
+##### "libft" is the first assignment at 42_cursus.
 
-## [get_next_line](https://github.com/efefish/Level1/get_next_line)
+##### This assignment's goal is creating a library (libft.h) for future assignments at 42_cursus.
 
-
-
-## [ft_printf](https://github.com/efefish/Level1/ft_printf)
+## [get_next_line](https://github.com/efefish/42C_L01-get_next_line)
 
 
 
-## [ft_server](https://github.com/efefish/Level2/ft_server)
+## [ft_printf](https://github.com/efefish/42C_L01-ft_printf)
 
 
 
-## [philosophers](https://github.com/efefish/Level3/philosophers)
+## [ft_server](https://github.com/efefish/42C_L02-ft_server)
+
+
+
+## [philosophers](https://github.com/efefish/42C_L03-philosophers)
 
 
 
@@ -48,8 +50,13 @@
 
 42Tokyoの生徒であるhhoshinoさん,ssoさん,ymukobarさんと2021年夏季に制作していく予定です。
 
-## [miniRT](https://github.com/efefish/Level4/miniRT)
-## [inception](https://github.com/efefish/Level5/inception)
+## [miniRT](https://github.com/efefish/42C_L04-miniRT)
+
+
+
+## [inception](https://github.com/efefish/42C_L05-inception)
+
+
 
 # Author
 42Intranet(available only to 42 Student)
