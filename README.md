@@ -35,7 +35,7 @@
 
 ## [ft_printf](https://github.com/efefish/42C_L01-ft_printf)
 
-
+##### recode the libc’s printf function.
 
 ## [ft_server](https://github.com/efefish/42C_L02-ft_server)
 
