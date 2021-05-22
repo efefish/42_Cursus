@@ -1,3 +1,33 @@
 [submodule "42C_L00-Libft"]
 	path = 42C_L00-Libft
 	url = https://github.com/efefish/42C_L00-Libft
+[submodule "42C_L01-ft_printf"]
+	path = 42C_L01-ft_printf
+	url = https://github.com/efefish/42C_L01-ft_printf
+[submodule "42C_L01-get_next_line"]
+	path = 42C_L01-get_next_line
+	url = https://github.com/efefish/42C_L01-get_next_line
+[submodule "42C_L02-ft_server"]
+	path = 42C_L02-ft_server
+	url = https://github.com/efefish/42C_L02-ft_server
+[submodule "42C_L03-philosophers"]
+	path = 42C_L03-philosophers
+	url = https://github.com/efefish/42C_L03-philosophers
+[submodule "42C_L04-miniRT"]
+	path = 42C_L04-miniRT
+	url = https://github.com/efefish/42C_L04-miniRT
+[submodule "42C_L05-inception"]
+	path = 42C_L05-inception
+	url = https://github.com/efefish/42C_L05-inception
+[submodule "42R_Hello-Node"]
+	path = 42R_Hello-Node
+	url = https://github.com/efefish/42R_Hello-Node
+[submodule "42R_Hello-Vue"]
+	path = 42R_Hello-Vue
+	url = https://github.com/efefish/42R_Hello-Vue
+[submodule "42Exam_R02"]
+	path = 42Exam_R02
+	url = https://github.com/efefish/42Exam_R02
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/efefish/minishell
