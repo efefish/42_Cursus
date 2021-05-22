@@ -28,9 +28,6 @@
 [submodule "42Exam_R02"]
 	path = 42Exam_R02
 	url = https://github.com/efefish/42Exam_R02
-[submodule "minishell"]
-	path = minishell
-	url = https://github.com/efefish/minishell
 [submodule "42C_L03-minishell"]
 	path = 42C_L03-minishell
 	url = https://github.com/efefish/42C_L03-minishell
