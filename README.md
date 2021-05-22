@@ -1,6 +1,7 @@
 # 42Tokyo 42_cursus (1st Circle)
 
 ### This is a repository of my 42Tokyo assignments.
+### 全てのプログラムは "norminette" と呼ばれる42で定められた独自の書式に基づいて書かれています。
 
 #### Level 0
 * [libft](#libft)
@@ -26,11 +27,11 @@
 
 ##### "libft" is the first assignment at 42_cursus.
 
-##### This assignment's goal is creating a library (libft.h) for future assignments at 42_cursus.
+##### This project's goal is creating a library (libft.h) for future assignments at 42_cursus.
 
 ## [get_next_line](https://github.com/efefish/42C_L01-get_next_line)
 
-
+##### This project
 
 ## [ft_printf](https://github.com/efefish/42C_L01-ft_printf)
 
