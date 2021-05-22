@@ -31,7 +31,7 @@
 
 ## [get_next_line](https://github.com/efefish/42C_L01-get_next_line)
 
-##### This project
+##### This is a function which returns a line read from a file descriptor, without the newline.
 
 ## [ft_printf](https://github.com/efefish/42C_L01-ft_printf)
 
