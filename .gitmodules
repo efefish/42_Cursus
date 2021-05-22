@@ -1,0 +1,3 @@
+[submodule "42C_L00-Libft"]
+	path = 42C_L00-Libft
+	url = https://github.com/efefish/42C_L00-Libft
