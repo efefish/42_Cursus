@@ -41,11 +41,11 @@
 
 
 
-## [philosophers](https:　//github.com/efefish/42C_L03-philosophers)
+## [philosophers] <!-- (https://github.com/efefish/42C_L03-philosophers) -->
 
+Coming Soon ...!!
 
-
-## [minishell](https:　//github.com/mu-san-dayo/minishell)
+## [minishell](https://github.com/mu-san-dayo/minishell)
 
 ##### "minishell" is the first group assignment at 42_cursus.
 ##### We plan to start working in the summer of 2021.
@@ -54,9 +54,9 @@
 
 
 
-## [inception](https:　//github.com/efefish/42C_L05-inception)
+## [inception] <!-- (https://github.com/efefish/42C_L05-inception) -->
 
-
+Coming Soon ...!!
 
 # Author
 42Intranet(available only to 42 Student)
