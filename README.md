@@ -52,7 +52,7 @@ Coming Soon ...!!
 
 ## [miniRT](https://github.com/efefish/42C_L04-miniRT)
 
-
+##### This program is to generate images using the Raytracing protocol.
 
 ## [inception] <!-- (https://github.com/efefish/42C_L05-inception) -->
 
