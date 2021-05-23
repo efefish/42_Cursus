@@ -39,7 +39,7 @@
 
 ## [ft_server](https://github.com/efefish/42C_L02-ft_server)
 
-
+##### This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
 ## [philosophers] <!-- (https://github.com/efefish/42C_L03-philosophers) -->
 
