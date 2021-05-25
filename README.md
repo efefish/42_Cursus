@@ -1,7 +1,7 @@
 # 42Tokyo 42_cursus (1st Circle)
 
 ### This is a repository of my 42Tokyo assignments.
-#### 全てのプログラムは "norminette" と呼ばれる42で定められた独自の書式に基づいて書かれています。
+#### All programs are written according to a unique format defined by 42 called "norminette".
 
 #### Level 0
 * [libft](#libft)
