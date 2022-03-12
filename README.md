@@ -1,4 +1,4 @@
-# 42Tokyo 42_cursus (1st Circle)
+# ecole42 42_cursus (1st Circle)
 
 ### This is a repository of my 42Tokyo assignments.
 #### All programs are written according to a unique format defined by 42 called "norminette".
